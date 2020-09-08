@@ -124,7 +124,11 @@ a:hover {
 }
 
 .bg-light{
-  background-color: $light !important;
+  background-color: #4c6d6a !important;
+}
+
+.bg-light h1 {
+  color: $white;
 }
 
 // form control
