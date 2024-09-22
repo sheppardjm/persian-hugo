@@ -12,16 +12,18 @@ AUTHOR WEBSITE: https://themefisher.com
 [TABLE OF CONTENTS]
 -------------------------------------------------------------------*/
 
-@import 'mixins';
+@import "mixins";
 
-@import 'variables';
+@import "variables";
 
-@import 'typography';
+@import "typography";
 
-@import 'buttons';
+@import "buttons";
 
-@import 'common';
+@import "common";
 
-@import 'templates/navigation.scss';
+@import "templates/navigation.scss";
 
-@import 'templates/main.scss';
+@import "templates/main.scss";
+
+@import "custom";
