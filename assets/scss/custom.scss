@@ -23,3 +23,29 @@
     widows: 1;
   }
 }
+
+.post-date {
+  min-height: 5em;
+  width: 5em;
+  border-radius: 50%;
+  margin: 0 auto 1em;
+  font-size: 0.75em;
+}
+
+.list-inline-item {
+  font-size: 0.75em;
+}
+
+.post-meta i {
+  font-size: 1em;
+}
+
+.post-sm .post-title {
+  font-size: 1.5rem;
+}
+
+@media (max-width: 605px) {
+  .post-sm .post-title {
+    font-size: 1.25rem;
+  }
+}
